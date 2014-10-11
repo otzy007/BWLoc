@@ -1,7 +1,7 @@
 GIT
-  remote: git://github.com/cognitiveflux/BubbleWrap.git
-  revision: 5ac7e2624f8d28ec1b2379e9e1c1f35a4a7b24e1
-  branch: Fix_Location_KCLErrorLocationUnknown_restart
+  remote: git://github.com/otzy007/BubbleWrap.git
+  revision: 8ce55371291b46bbacb33c1c0c575ef7a8e7fdd0
+  branch: 422+432
   specs:
     bubble-wrap (1.7.1)
       bubble-wrap-http (= 1.7.1)
